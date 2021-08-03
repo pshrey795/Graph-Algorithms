@@ -10,5 +10,5 @@ How to compile the files?
 2. In the console, we can perform three operations, for which first type `java A4_2019CS10400 <input_node_file> <input_edge_file>` followed by the name of the function which you want to perform:
 
   * **average:** To find the average number of Marvel characters that each character is associated with, i.e. average degree of all nodes.
-  * **rank:** To print a sorted list of all characters(exact specifications in the [statement](https://github.com/pshrey795/Graph-Algorithms/blob/main/MarvelGraph/Statement.pdf).
+  * **rank:** To print a sorted list of all characters(exact specifications in the [statement](https://github.com/pshrey795/Graph-Algorithms/blob/main/MarvelGraph/Statement.pdf)).
   * **independant storylines dfs**: To find the number of independent storylines in the graph i.e. the number of connected components.
